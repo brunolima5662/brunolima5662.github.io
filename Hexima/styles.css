@@ -1,0 +1,59 @@
+body {
+    background-color: #1A1A1A;
+}
+
+#title-img {
+    max-width: 600px;
+    max-height: 148px;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+#icon-img {
+    max-width: 148px;
+    max-height: 148px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+#title {
+    max-width: 790px; /* 960px; */
+    width: 80%;
+    height: 148px; /* 238px; */
+    position: relative;
+    margin-left : auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#google-play-badge-img {
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+}
+
+#google-play-badge {
+    width: 200px;
+    position: absolute;
+    left: 50%;
+    bottom: 20px;
+    margin-left: -100px;
+    
+}
+
+#promo-video {
+    height: 500px;
+    width: 375px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+#promo-video-src {
+    height: 500px;
+    width: 375px;
+    object-fit: cover;
+}
